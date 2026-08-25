@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Login Suite">
+
+    <test name="Login Test">
+
+        <classes>
+            <class name="testCases.TC_ECommerceAutomation"/>
+        </classes>
+
+    </test>
+
+</suite>

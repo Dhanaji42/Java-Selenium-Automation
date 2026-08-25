@@ -1,0 +1,646 @@
+2026-08-19 18:59:21 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-19 18:59:21 INFO  Pages.LoginPageTest - Username entered successfully.
+2026-08-19 18:59:21 INFO  Pages.LoginPageTest - Password entered successfully.
+2026-08-19 18:59:22 INFO  Pages.LoginPageTest - Login button clicked.
+2026-08-19 18:59:22 INFO  Pages.LoginPageTest - Success message retrieved: You logged into a secure area!
+×
+2026-08-19 19:25:03 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-19 19:28:26 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-19 19:30:40 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-19 19:30:40 INFO  Pages.LoginPageTest - Clicking Login button
+2026-08-19 19:34:48 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-19 19:34:48 INFO  Pages.LoginPageTest - Clicking Login button
+2026-08-19 19:34:48 INFO  Pages.LoginPageTest - Getting success message
+2026-08-20 10:24:55 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-20 10:32:47 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-20 10:33:21 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-20 10:34:51 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-20 10:36:30 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-20 11:25:13 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 11:25:13 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 11:27:22 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 11:27:23 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 12:48:41 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-20 12:49:20 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 12:49:20 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 13:00:11 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 13:00:11 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 13:03:32 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 13:03:32 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 13:06:03 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 13:06:03 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 13:09:31 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 13:09:31 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 13:10:36 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 13:10:36 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 13:11:54 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 13:11:54 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 13:13:29 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 13:13:29 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 13:18:18 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 13:18:18 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 13:23:56 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 13:23:56 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 13:30:21 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 13:30:21 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 15:43:27 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 15:43:27 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 16:04:52 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 16:04:52 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 16:24:37 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 16:24:37 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 16:24:38 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 17:06:07 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 17:06:07 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 17:06:07 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 17:06:08 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-20 18:03:53 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-20 18:03:53 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 18:03:55 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-20 18:03:56 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 12:25:43 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 12:25:43 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 12:25:44 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 12:25:45 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 12:26:39 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 12:26:39 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 12:26:39 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 12:26:40 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 12:35:10 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 12:35:10 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 12:35:11 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 12:35:12 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 12:36:35 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 12:36:35 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 12:36:36 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 12:36:37 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 13:00:25 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 13:00:25 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:00:26 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:00:27 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 13:01:52 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 13:01:52 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:01:53 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:01:54 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 13:04:55 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 13:04:55 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:04:56 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:04:57 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 13:16:36 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 13:16:36 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:16:37 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:16:38 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 13:37:03 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 13:37:03 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:37:04 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:37:05 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 13:42:34 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 13:42:34 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:42:35 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 13:42:36 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 17:48:39 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 17:48:39 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 17:48:40 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 17:48:41 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 18:52:00 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 18:52:00 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 18:52:01 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 18:52:01 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 18:52:04 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 18:52:04 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 18:52:55 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 18:52:55 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 18:52:56 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 18:52:56 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 18:52:58 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 18:52:59 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 18:57:26 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 18:57:26 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 18:57:27 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 18:57:28 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 18:57:30 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 18:57:31 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 19:05:10 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-21 19:05:10 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 19:05:11 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 19:05:12 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-21 19:05:13 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-21 19:05:14 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-22 17:26:54 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-22 17:26:54 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 17:26:54 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 17:26:55 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-22 17:26:56 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-22 17:26:56 INFO  Pages.ForgotpassOpencart - Clicking Login button
+2026-08-22 17:26:57 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-22 17:35:17 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-22 17:35:17 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 17:35:18 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 17:35:19 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-22 17:35:20 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-22 17:35:20 INFO  Pages.ForgotpassOpencart - Clicking Login button
+2026-08-22 17:35:21 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-22 17:41:30 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-22 17:41:31 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 17:41:31 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 17:41:32 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-22 17:41:33 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 17:41:34 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-22 17:41:34 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-22 17:42:56 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-22 17:42:56 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 17:42:57 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 17:42:57 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-22 17:42:59 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 17:42:59 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-22 17:42:59 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-22 18:21:01 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-22 18:21:01 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:21:02 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:21:03 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-22 18:21:04 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:21:04 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-22 18:21:04 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-22 18:26:05 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-22 18:26:05 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:26:05 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:26:06 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-22 18:26:08 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:26:08 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-22 18:26:08 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-22 18:26:29 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-22 18:26:29 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:26:30 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:26:31 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-22 18:26:32 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:26:33 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-22 18:26:33 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-22 18:27:46 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-22 18:27:46 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:27:48 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:27:49 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-22 18:27:50 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:27:50 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-22 18:27:50 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-22 18:40:04 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-22 18:40:04 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:40:05 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:40:06 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-22 18:40:07 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:40:07 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-22 18:40:07 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-22 18:45:35 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-22 18:45:35 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:45:35 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:45:36 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-22 18:45:38 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-22 18:45:38 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-22 18:45:38 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-22 18:45:40 INFO  Pages.ForgotpassOpencart - Email with instructions has been sent to you.
+2026-08-23 22:19:04 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-23 22:19:04 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-23 22:19:05 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-23 22:19:05 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-23 22:19:07 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-23 22:19:08 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-23 22:19:08 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-23 22:19:10 INFO  Pages.ForgotpassOpencart - Email with instructions has been sent to you.
+2026-08-23 22:24:34 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-23 22:24:34 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-23 22:24:35 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:36:27 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 12:36:27 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:36:27 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:36:28 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-24 12:36:29 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-24 12:39:30 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 12:39:31 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:39:31 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:39:31 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-24 12:39:32 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-24 12:42:19 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 12:42:19 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:42:20 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:42:21 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-24 12:42:21 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-24 12:42:23 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:42:23 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-24 12:42:23 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-24 12:42:24 INFO  Pages.ForgotpassOpencart - Email with instructions has been sent to you.
+2026-08-24 12:42:45 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 12:42:45 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:42:45 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:42:46 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-24 12:42:46 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-24 12:42:48 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:42:49 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-24 12:42:49 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-24 12:42:50 INFO  Pages.ForgotpassOpencart - Email with instructions has been sent to you.
+2026-08-24 12:43:07 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 12:43:07 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:43:07 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:43:08 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-24 12:43:08 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-24 12:43:10 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:43:10 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-24 12:43:10 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-24 12:43:12 INFO  Pages.ForgotpassOpencart - Email with instructions has been sent to you.
+2026-08-24 12:47:27 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 12:47:27 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:47:28 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:47:28 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-08-24 12:47:29 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-08-24 12:47:31 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 12:47:32 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-08-24 12:47:32 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-08-24 12:47:33 INFO  Pages.ForgotpassOpencart - Email with instructions has been sent to you.
+2026-08-24 15:41:33 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 15:41:33 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 15:41:33 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 19:59:56 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 19:59:56 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 19:59:57 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:08:29 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 20:08:29 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:08:30 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:17:21 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 20:17:21 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:17:22 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:17:22 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-24 20:17:22 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-24 20:17:23 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-24 20:18:44 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 20:18:44 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:18:45 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:18:45 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-24 20:18:45 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-24 20:18:46 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-24 20:18:48 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-24 20:18:48 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-24 20:18:48 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-24 20:18:48 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-24 20:31:30 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 20:31:30 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:31:31 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:31:31 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-24 20:31:31 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-24 20:31:32 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-24 20:31:34 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-24 20:31:34 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-24 20:31:34 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-24 20:31:34 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-24 20:35:05 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 20:35:05 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:35:06 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:35:06 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-24 20:35:06 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-24 20:35:07 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-24 20:35:08 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-24 20:35:08 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-24 20:35:08 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-24 20:35:10 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-24 20:35:48 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-24 20:35:49 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:35:49 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-24 20:35:51 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-24 20:35:51 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-24 20:35:51 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-24 20:35:52 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-24 20:35:52 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-24 20:35:52 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-24 20:35:54 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 12:09:04 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 12:09:04 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 12:09:04 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 12:09:06 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 12:09:06 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 12:09:06 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 12:09:07 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 12:09:07 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 12:09:07 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 12:09:09 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 12:28:52 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 12:28:52 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 12:28:53 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 12:28:54 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 12:28:54 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 12:28:54 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 12:28:55 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 12:28:55 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 12:28:55 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 12:28:56 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 12:28:57 INFO  Pages.ECommerceAutomation - Clicking on select country Button
+2026-08-25 12:36:09 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 12:36:09 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 12:36:10 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 12:36:11 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 12:36:11 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 12:36:12 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 12:36:13 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 12:36:13 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 12:36:13 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 12:36:15 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 12:36:15 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 12:37:28 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 12:37:28 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 12:37:29 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 12:37:30 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 12:37:30 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 12:37:30 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 12:37:32 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 12:37:32 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 12:37:32 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 12:37:34 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 12:37:34 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 13:04:41 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 13:04:41 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 13:04:41 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 13:04:43 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 13:04:43 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 13:04:43 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 13:04:44 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 13:04:44 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 13:04:44 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 13:04:46 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 13:04:46 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 13:07:22 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 13:07:22 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 13:07:23 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 13:07:25 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 13:07:25 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 13:07:25 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 13:07:26 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 13:07:26 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 13:07:26 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 13:07:28 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 13:07:28 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 13:10:37 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 13:10:37 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 13:10:37 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 13:10:37 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 13:10:37 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 13:10:38 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 13:10:40 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 13:10:40 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 13:10:40 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 13:10:41 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 13:10:41 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 14:18:44 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 14:18:44 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:18:45 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:18:47 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 14:18:47 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 14:18:47 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 14:18:48 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 14:18:48 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 14:18:48 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 14:18:50 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 14:18:50 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 14:18:50 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 14:18:50 INFO  Pages.ECommerceAutomation - Enter address
+2026-08-25 14:31:15 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 14:31:15 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:31:16 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:31:17 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 14:31:17 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 14:31:17 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 14:31:18 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 14:31:18 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 14:31:19 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 14:31:21 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 14:31:21 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 14:31:21 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 14:31:21 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 14:31:21 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 14:31:21 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 14:33:51 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 14:33:51 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:33:51 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:33:53 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 14:33:53 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 14:33:53 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 14:33:54 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 14:33:54 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 14:33:54 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 14:33:56 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 14:33:56 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 14:33:56 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 14:33:56 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 14:33:56 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 14:33:56 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 14:54:54 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 14:54:54 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:54:55 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:54:56 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 14:54:56 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 14:54:56 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 14:54:57 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 14:54:57 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 14:54:57 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 14:54:59 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 14:54:59 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 14:55:00 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 14:55:00 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 14:55:00 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 14:55:00 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 14:55:00 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 14:56:32 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 14:56:32 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:56:33 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:56:34 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 14:56:34 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 14:56:34 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 14:56:36 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 14:56:36 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 14:56:36 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 14:56:38 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 14:56:38 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 14:56:38 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 14:56:38 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 14:56:38 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 14:56:38 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 14:56:38 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-25 14:59:53 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 14:59:53 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:59:54 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 14:59:55 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 14:59:55 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 14:59:56 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 14:59:57 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 14:59:57 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 14:59:57 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 14:59:59 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 14:59:59 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 14:59:59 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 14:59:59 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 14:59:59 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 14:59:59 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 14:59:59 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-25 14:59:59 INFO  Pages.ECommerceAutomation - Entering fax numeber
+2026-08-25 16:38:53 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 16:38:53 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 16:38:54 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 16:38:55 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 16:38:55 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 16:38:55 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 16:38:56 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 16:38:56 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 16:38:56 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 16:38:58 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 16:38:58 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 16:53:50 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 16:53:50 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 16:53:51 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 16:53:52 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 16:53:52 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 16:53:52 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 16:53:54 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 16:53:54 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 16:53:54 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 16:53:56 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 16:53:56 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 16:53:56 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 16:53:56 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 16:53:56 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 16:53:56 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 16:53:56 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-25 16:53:56 INFO  Pages.ECommerceAutomation - Entering fax numeber
+2026-08-25 16:53:56 INFO  Pages.ECommerceAutomation - Clicking Billing Address Save button
+2026-08-25 16:53:56 INFO  Pages.ECommerceAutomation - Selecting Shipping Address
+2026-08-25 16:53:58 INFO  Pages.ECommerceAutomation - Clicking Shipping Address checkbox
+2026-08-25 16:53:58 INFO  Pages.ECommerceAutomation - Clicking Shipping Save button
+2026-08-25 16:53:58 INFO  Pages.ECommerceAutomation - Selecting Cash On Delivery payment method
+2026-08-25 16:53:58 INFO  Pages.ECommerceAutomation - Clicking Payment Method Save button
+2026-08-25 16:53:58 INFO  Pages.ECommerceAutomation - Verifying Cash On Delivery message
+2026-08-25 16:53:59 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
+2026-08-25 16:53:59 INFO  Pages.ECommerceAutomation - Verifying Checkout Confirm Order section
+2026-08-25 17:02:26 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 17:02:26 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:02:27 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:02:28 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 17:02:28 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 17:02:28 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 17:02:29 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 17:02:29 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 17:02:29 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 17:02:31 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 17:02:31 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 17:02:31 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 17:02:31 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 17:02:31 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 17:02:31 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 17:02:31 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-25 17:02:31 INFO  Pages.ECommerceAutomation - Entering fax numeber
+2026-08-25 17:02:31 INFO  Pages.ECommerceAutomation - Clicking Billing Address Save button
+2026-08-25 17:02:31 INFO  Pages.ECommerceAutomation - Selecting Shipping Address
+2026-08-25 17:02:33 INFO  Pages.ECommerceAutomation - Clicking Shipping Address checkbox
+2026-08-25 17:02:33 INFO  Pages.ECommerceAutomation - Clicking Shipping Save button
+2026-08-25 17:02:33 INFO  Pages.ECommerceAutomation - Selecting Cash On Delivery payment method
+2026-08-25 17:02:33 INFO  Pages.ECommerceAutomation - Clicking Payment Method Save button
+2026-08-25 17:02:33 INFO  Pages.ECommerceAutomation - Verifying Cash On Delivery message
+2026-08-25 17:02:34 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
+2026-08-25 17:02:34 INFO  Pages.ECommerceAutomation - Verifying Checkout Confirm Order section
+2026-08-25 17:07:21 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 17:07:21 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:07:21 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:07:22 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 17:07:22 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 17:07:22 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 17:07:24 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 17:07:24 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 17:07:24 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 17:07:25 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 17:07:25 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 17:13:21 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 17:13:21 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:13:22 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:13:23 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 17:13:23 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 17:13:23 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 17:13:24 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 17:13:24 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 17:13:24 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 17:13:26 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 17:13:26 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 17:13:26 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 17:13:26 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 17:13:26 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 17:13:26 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 17:13:26 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-25 17:13:26 INFO  Pages.ECommerceAutomation - Entering fax numeber
+2026-08-25 17:13:26 INFO  Pages.ECommerceAutomation - Clicking Billing Address Save button
+2026-08-25 17:13:26 INFO  Pages.ECommerceAutomation - Selecting Shipping Address
+2026-08-25 17:13:28 INFO  Pages.ECommerceAutomation - Clicking Shipping Address checkbox
+2026-08-25 17:13:28 INFO  Pages.ECommerceAutomation - Clicking Shipping Save button
+2026-08-25 17:13:28 INFO  Pages.ECommerceAutomation - Selecting Cash On Delivery payment method
+2026-08-25 17:13:28 INFO  Pages.ECommerceAutomation - Clicking Payment Method Save button
+2026-08-25 17:13:28 INFO  Pages.ECommerceAutomation - Verifying Cash On Delivery message
+2026-08-25 17:13:29 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
+2026-08-25 17:13:29 INFO  Pages.ECommerceAutomation - Verifying Checkout Confirm Order section
+2026-08-25 17:21:02 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 17:21:02 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:21:03 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:21:04 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 17:21:04 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 17:21:04 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 17:21:05 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 17:21:05 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 17:21:05 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 17:21:07 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 17:21:07 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 17:21:07 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 17:21:07 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 17:21:07 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 17:21:08 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 17:21:08 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-25 17:21:08 INFO  Pages.ECommerceAutomation - Entering fax numeber
+2026-08-25 17:21:08 INFO  Pages.ECommerceAutomation - Clicking Billing Address Save button
+2026-08-25 17:21:08 INFO  Pages.ECommerceAutomation - Selecting Shipping Address
+2026-08-25 17:21:09 INFO  Pages.ECommerceAutomation - Clicking Shipping Address checkbox
+2026-08-25 17:21:10 INFO  Pages.ECommerceAutomation - Clicking Shipping Save button
+2026-08-25 17:21:10 INFO  Pages.ECommerceAutomation - Selecting Cash On Delivery payment method
+2026-08-25 17:21:10 INFO  Pages.ECommerceAutomation - Clicking Payment Method Save button
+2026-08-25 17:21:10 INFO  Pages.ECommerceAutomation - Verifying Cash On Delivery message
+2026-08-25 17:21:11 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
+2026-08-25 17:21:11 INFO  Pages.ECommerceAutomation - Clicking Confirm Order button
+2026-08-25 17:21:11 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 17:33:05 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 17:33:05 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:33:06 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:33:07 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 17:33:07 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 17:33:07 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 17:33:09 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 17:33:09 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 17:33:09 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 17:33:10 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 17:33:10 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 17:34:26 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 17:34:26 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:34:27 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 17:34:28 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 17:34:28 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 17:34:28 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 17:34:29 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 17:34:29 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 17:34:30 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 17:34:31 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 17:34:31 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 17:34:31 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 17:34:31 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 17:34:31 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 17:34:31 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 17:34:31 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-25 17:34:31 INFO  Pages.ECommerceAutomation - Entering fax numeber
+2026-08-25 17:34:32 INFO  Pages.ECommerceAutomation - Clicking Billing Address Save button
+2026-08-25 17:34:32 INFO  Pages.ECommerceAutomation - Selecting Shipping Address
+2026-08-25 17:34:33 INFO  Pages.ECommerceAutomation - Clicking Shipping Address checkbox
+2026-08-25 17:34:33 INFO  Pages.ECommerceAutomation - Clicking Shipping Save button
+2026-08-25 17:34:33 INFO  Pages.ECommerceAutomation - Selecting Cash On Delivery payment method
+2026-08-25 17:34:33 INFO  Pages.ECommerceAutomation - Clicking Payment Method Save button
+2026-08-25 17:34:33 INFO  Pages.ECommerceAutomation - Verifying Cash On Delivery message
+2026-08-25 17:34:34 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
+2026-08-25 17:34:34 INFO  Pages.ECommerceAutomation - Clicking Confirm Order button
+2026-08-25 17:34:34 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 17:36:05 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 17:36:05 INFO  Pages.LoginPageOpencart - Clicking Login button
