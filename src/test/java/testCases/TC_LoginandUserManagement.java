@@ -20,12 +20,13 @@ import factory.BaseClass;
 public class TC_LoginandUserManagement extends BaseClass {
 
     @Test(priority = 1)
-    public void verifyLogin() {
+    public void verifyLogin() throws InterruptedException {
 
         ExtentTest test = extent.createTest("Verify Login");
 
         LoginPageOpencart lp = new LoginPageOpencart(driver);
 
+        Thread.sleep(5000);
         // Login
         test.info("Clicking Login Button");
         lp.clickLoginOpenCart();
