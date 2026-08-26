@@ -14,7 +14,7 @@ import factory.BaseClass;
 public class TC_ECommerceAutomation extends BaseClass {
 
     @Test(priority = 1)
-    public void verifyLogin() {
+    public void verifyLoginEcommerce() {
 
         ExtentTest test = extent.createTest("ECommerceAutomation");
 

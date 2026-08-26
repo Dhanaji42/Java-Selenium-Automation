@@ -806,3 +806,31 @@
 2026-08-26 16:02:27 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
 2026-08-26 16:02:27 INFO  Pages.ECommerceAutomation - Clicking Confirm Order button
 2026-08-26 16:02:27 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-26 17:55:31 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-26 17:55:31 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 17:55:32 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 17:55:33 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-26 17:55:33 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-26 17:55:33 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-26 17:55:34 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-26 17:55:34 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-26 17:55:34 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-26 17:55:36 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-26 17:55:36 INFO  Pages.ECommerceAutomation - Selecting New Address from Billing Address dropdown
+2026-08-26 17:55:36 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-26 17:55:36 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-26 17:55:36 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-26 17:55:36 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-26 17:55:36 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-26 17:55:36 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-26 17:55:36 INFO  Pages.ECommerceAutomation - Entering fax numeber
+2026-08-26 17:55:37 INFO  Pages.ECommerceAutomation - Clicking Billing Address Save button
+2026-08-26 17:55:37 INFO  Pages.ECommerceAutomation - Selecting Shipping Address
+2026-08-26 17:55:38 INFO  Pages.ECommerceAutomation - Clicking Shipping Address checkbox
+2026-08-26 17:55:38 INFO  Pages.ECommerceAutomation - Clicking Shipping Save button
+2026-08-26 17:55:38 INFO  Pages.ECommerceAutomation - Selecting Cash On Delivery payment method
+2026-08-26 17:55:38 INFO  Pages.ECommerceAutomation - Clicking Payment Method Save button
+2026-08-26 17:55:39 INFO  Pages.ECommerceAutomation - Verifying Cash On Delivery message
+2026-08-26 17:55:39 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
+2026-08-26 17:55:39 INFO  Pages.ECommerceAutomation - Clicking Confirm Order button
+2026-08-26 17:55:39 INFO  Pages.ECommerceAutomation - Verifying Checkout Page

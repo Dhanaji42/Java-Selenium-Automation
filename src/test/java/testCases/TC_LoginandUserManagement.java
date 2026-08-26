@@ -22,7 +22,7 @@ public class TC_LoginandUserManagement extends BaseClass {
     @Test(priority = 1)
     public void verifyLogin() throws InterruptedException {
 
-        ExtentTest test = extent.createTest("Verify Login");
+        ExtentTest test = extent.createTest("Verify Login Test");
 
         LoginPageOpencart lp = new LoginPageOpencart(driver);
 
