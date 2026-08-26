@@ -115,7 +115,7 @@ public class BaseClass {
 			case "chrome":
 
 				ChromeOptions options = new ChromeOptions();
-				options.addArguments("--disable-first-run-ui");
+//				options.addArguments("--disable-first-run-ui");
 				options.addArguments("--no-default-browser-check");
 				options.addArguments("--disable-popup-blocking");
 				options.addArguments("--start-maximized");
