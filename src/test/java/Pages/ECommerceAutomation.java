@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class ECommerceAutomation {
 
-    WebDriver driver;
+//    WebDriver driver;
 
     private static final Logger logger =
             LogManager.getLogger(ECommerceAutomation.class);
