@@ -27,7 +27,7 @@ public class LoginPageOpencart {
 	     }
 	     
 	     public void enterEmail(String Email) {
-	         logger.debug("Entering Eanail Id");
+	         logger.debug("Entering Email Id");
 	         driver.findElement(Emailtxt).sendKeys(Email);
 	     }
          public void  enterPassword (String Password) {

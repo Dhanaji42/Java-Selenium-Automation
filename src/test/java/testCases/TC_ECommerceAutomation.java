@@ -63,6 +63,9 @@ public class TC_ECommerceAutomation extends BaseClass {
 
         Assert.assertEquals(checkoutPage, "Checkout");
         
+        test.info("Clicking on select btn");
+        EC.selectNewBillingAddress();
+        
         
         test.info("Clicking on select country Button");
         EC.Selectcntry();

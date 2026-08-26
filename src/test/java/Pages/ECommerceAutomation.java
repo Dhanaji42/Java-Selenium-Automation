@@ -25,6 +25,7 @@ public class ECommerceAutomation {
     By clickcheckout = By.xpath("//button[@id='checkout']");
     By verifycheckoutpage = By.xpath("//div[@class='page-title']/h1");
     By Selectcntry = By.xpath("//select[@id='BillingNewAddress_CountryId']");
+    By billingAddressDropdown = By.xpath("//select[@id='billing-address-select']");
     By citytxt = By.xpath("//input[@id='BillingNewAddress_City']");
     By Addresstxt = By.xpath("//input[@id='BillingNewAddress_Address1']");
     By Addresstxt1 = By.xpath("//input[@id='BillingNewAddress_Address2']");
@@ -92,6 +93,16 @@ public class ECommerceAutomation {
         Select country = new Select(driver.findElement(Selectcntry));
         country.selectByVisibleText("India");
     }    
+    
+    public void selectNewBillingAddress() {
+
+        logger.info("Selecting New Address from Billing Address dropdown");
+
+        Select select = new Select(
+                driver.findElement(billingAddressDropdown));
+
+        select.selectByVisibleText("New Address");
+    }
     
     public void entercityname(String City) {
         logger.info("Entering city name");

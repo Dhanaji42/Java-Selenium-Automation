@@ -644,3 +644,165 @@
 2026-08-25 17:34:34 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
 2026-08-25 17:36:05 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
 2026-08-25 17:36:05 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 20:42:36 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 20:42:36 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 20:42:37 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 20:42:39 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 20:42:39 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 20:42:39 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 20:42:41 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 20:55:46 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 20:55:46 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 20:55:47 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 20:55:48 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 20:55:48 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 20:55:48 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 20:55:50 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 20:55:50 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 20:55:50 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 20:55:52 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 20:55:52 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 20:56:42 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-25 20:56:42 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 20:56:43 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-25 20:56:44 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-25 20:56:44 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-25 20:56:44 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-25 20:56:46 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-25 20:56:46 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-25 20:56:46 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-25 20:56:48 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-25 20:56:48 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-25 20:56:48 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-25 20:56:48 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 20:56:48 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-25 20:56:48 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-25 20:56:48 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-25 20:56:48 INFO  Pages.ECommerceAutomation - Entering fax numeber
+2026-08-25 20:56:48 INFO  Pages.ECommerceAutomation - Clicking Billing Address Save button
+2026-08-25 20:56:48 INFO  Pages.ECommerceAutomation - Selecting Shipping Address
+2026-08-25 20:56:50 INFO  Pages.ECommerceAutomation - Clicking Shipping Address checkbox
+2026-08-25 20:56:50 INFO  Pages.ECommerceAutomation - Clicking Shipping Save button
+2026-08-25 20:56:50 INFO  Pages.ECommerceAutomation - Selecting Cash On Delivery payment method
+2026-08-25 20:56:51 INFO  Pages.ECommerceAutomation - Clicking Payment Method Save button
+2026-08-25 20:56:51 INFO  Pages.ECommerceAutomation - Verifying Cash On Delivery message
+2026-08-25 20:56:51 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
+2026-08-25 20:56:51 INFO  Pages.ECommerceAutomation - Clicking Confirm Order button
+2026-08-25 20:56:52 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-26 13:05:46 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-26 13:05:46 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 13:05:46 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 13:05:47 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-26 13:05:47 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-26 13:05:48 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-26 13:05:49 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-26 13:05:49 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-26 13:05:49 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-26 13:05:50 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-26 13:05:50 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-26 13:09:47 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-26 13:09:47 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 13:09:47 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 13:09:49 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-26 13:09:49 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-26 13:09:49 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-26 13:09:50 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-26 13:09:50 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-26 13:09:50 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-26 13:09:52 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-26 13:09:52 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-26 13:12:47 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-26 13:12:47 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 13:12:49 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 13:12:50 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-26 13:12:50 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-26 13:12:50 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-26 13:12:51 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-26 13:12:51 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-26 13:12:51 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-26 13:12:53 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-26 13:12:53 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-26 13:17:16 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-26 13:17:16 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 13:17:16 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 13:17:18 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-26 13:17:18 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-26 13:17:18 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-26 13:17:19 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-26 13:17:19 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-26 13:17:19 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-26 13:17:19 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-26 13:17:20 INFO  Pages.ECommerceAutomation - Selecting New Address from Billing Address dropdown
+2026-08-26 13:17:20 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-26 13:17:20 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-26 13:17:21 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-26 13:17:21 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-26 13:17:21 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-26 13:17:21 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-26 13:17:21 INFO  Pages.ECommerceAutomation - Entering fax numeber
+2026-08-26 13:17:21 INFO  Pages.ECommerceAutomation - Clicking Billing Address Save button
+2026-08-26 13:17:21 INFO  Pages.ECommerceAutomation - Selecting Shipping Address
+2026-08-26 13:17:22 INFO  Pages.ECommerceAutomation - Clicking Shipping Address checkbox
+2026-08-26 13:17:22 INFO  Pages.ECommerceAutomation - Clicking Shipping Save button
+2026-08-26 13:17:22 INFO  Pages.ECommerceAutomation - Selecting Cash On Delivery payment method
+2026-08-26 13:17:23 INFO  Pages.ECommerceAutomation - Clicking Payment Method Save button
+2026-08-26 13:17:23 INFO  Pages.ECommerceAutomation - Verifying Cash On Delivery message
+2026-08-26 13:17:23 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
+2026-08-26 13:17:23 INFO  Pages.ECommerceAutomation - Clicking Confirm Order button
+2026-08-26 13:17:23 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-26 13:17:51 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-26 13:17:51 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 13:17:52 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 13:17:53 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-26 13:17:53 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-26 13:17:53 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-26 13:17:54 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-26 13:17:54 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-26 13:17:54 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-26 13:17:54 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-26 13:17:56 INFO  Pages.ECommerceAutomation - Selecting New Address from Billing Address dropdown
+2026-08-26 13:17:56 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-26 13:17:56 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-26 13:17:56 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-26 13:17:56 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-26 13:17:56 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-26 13:17:56 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-26 13:17:56 INFO  Pages.ECommerceAutomation - Entering fax numeber
+2026-08-26 13:17:56 INFO  Pages.ECommerceAutomation - Clicking Billing Address Save button
+2026-08-26 13:17:56 INFO  Pages.ECommerceAutomation - Selecting Shipping Address
+2026-08-26 13:17:57 INFO  Pages.ECommerceAutomation - Clicking Shipping Address checkbox
+2026-08-26 13:17:58 INFO  Pages.ECommerceAutomation - Clicking Shipping Save button
+2026-08-26 13:17:58 INFO  Pages.ECommerceAutomation - Selecting Cash On Delivery payment method
+2026-08-26 13:17:58 INFO  Pages.ECommerceAutomation - Clicking Payment Method Save button
+2026-08-26 13:17:58 INFO  Pages.ECommerceAutomation - Verifying Cash On Delivery message
+2026-08-26 13:17:59 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
+2026-08-26 13:17:59 INFO  Pages.ECommerceAutomation - Clicking Confirm Order button
+2026-08-26 13:17:59 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-26 16:02:18 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-08-26 16:02:18 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 16:02:19 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-08-26 16:02:20 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-08-26 16:02:20 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-08-26 16:02:20 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-08-26 16:02:22 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-08-26 16:02:22 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-08-26 16:02:22 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-08-26 16:02:24 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-08-26 16:02:24 INFO  Pages.ECommerceAutomation - Selecting New Address from Billing Address dropdown
+2026-08-26 16:02:24 INFO  Pages.ECommerceAutomation - Selecting Country
+2026-08-26 16:02:24 INFO  Pages.ECommerceAutomation - Entering city name
+2026-08-26 16:02:24 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-26 16:02:24 INFO  Pages.ECommerceAutomation - Entering address
+2026-08-26 16:02:24 INFO  Pages.ECommerceAutomation - Entering postal code
+2026-08-26 16:02:24 INFO  Pages.ECommerceAutomation - Entering phone numeber
+2026-08-26 16:02:24 INFO  Pages.ECommerceAutomation - Entering fax numeber
+2026-08-26 16:02:24 INFO  Pages.ECommerceAutomation - Clicking Billing Address Save button
+2026-08-26 16:02:24 INFO  Pages.ECommerceAutomation - Selecting Shipping Address
+2026-08-26 16:02:26 INFO  Pages.ECommerceAutomation - Clicking Shipping Address checkbox
+2026-08-26 16:02:26 INFO  Pages.ECommerceAutomation - Clicking Shipping Save button
+2026-08-26 16:02:26 INFO  Pages.ECommerceAutomation - Selecting Cash On Delivery payment method
+2026-08-26 16:02:26 INFO  Pages.ECommerceAutomation - Clicking Payment Method Save button
+2026-08-26 16:02:26 INFO  Pages.ECommerceAutomation - Verifying Cash On Delivery message
+2026-08-26 16:02:27 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
+2026-08-26 16:02:27 INFO  Pages.ECommerceAutomation - Clicking Confirm Order button
+2026-08-26 16:02:27 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
