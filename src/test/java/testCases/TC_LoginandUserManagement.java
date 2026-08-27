@@ -24,7 +24,6 @@ public class TC_LoginandUserManagement extends BaseClass {
 
         LoginPageOpencart lp = new LoginPageOpencart(getDriver());
 
-        Thread.sleep(5000);
 
         // Login
         test.get().info("Clicking Login Button");
