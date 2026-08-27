@@ -2,42 +2,41 @@ package testCases;
 
 import java.time.Duration;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import com.aventstack.extentreports.ExtentTest;
 
 import Pages.ForgotpassOpencart;
 import Pages.LoginPageOpencart;
 import Pages.LogoutpageOpencart;
 import Pages.UserprofileOpencart;
 import factory.BaseClass;
+import utilities.RetryAnalyzer;
 
 public class TC_LoginandUserManagement extends BaseClass {
 
-    @Test(priority = 1)
+    @Test(
+        priority = 1,
+        retryAnalyzer = RetryAnalyzer.class
+    )
     public void verifyLogin() throws InterruptedException {
 
-        ExtentTest test = extent.createTest("Verify Login Test");
+        test.set(extent.createTest("Verify Login Test"));
 
-        LoginPageOpencart lp = new LoginPageOpencart(driver);
+        LoginPageOpencart lp = new LoginPageOpencart(getDriver());
 
         Thread.sleep(5000);
+
         // Login
-        test.info("Clicking Login Button");
+        test.get().info("Clicking Login Button");
         lp.clickLoginOpenCart();
 
-        test.info("Entering Email");
+        test.get().info("Entering Email");
         lp.enterEmail("dhanaji1234@gmail.com");
 
-        test.info("Entering Password");
+        test.get().info("Entering Password");
         lp.enterPassword("Dhanaji@0303");
 
-        test.info("Clicking Login");
+        test.get().info("Clicking Login");
         lp.clicklogin1();
 
         Assert.assertEquals(
@@ -45,52 +44,56 @@ public class TC_LoginandUserManagement extends BaseClass {
                 "Welcome to our store",
                 "Welcome message is not displayed");
 
-        test.pass("Login Successful");
-        
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        //User Profile
-        UserprofileOpencart UP = new UserprofileOpencart(driver);
-        		
-        test.info("Clicking my account btn");
+        test.get().pass("Login Successful");
+
+        getDriver().manage().timeouts()
+                .implicitlyWait(Duration.ofSeconds(10));
+
+        // User Profile
+        UserprofileOpencart UP =
+                new UserprofileOpencart(getDriver());
+
+        test.get().info("Clicking My Account");
         UP.clickingmyaccount();
-        
-        test.info("Verify Your Personal Details");
+
+        test.get().info("Verifying Personal Details");
         UP.Customerinfo();
-        
-        test.pass("Personal detail verified succesfully");
-        
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        
-        //WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+
+        test.get().pass("Personal Details Verified Successfully");
+
+        getDriver().manage().timeouts()
+                .implicitlyWait(Duration.ofSeconds(10));
 
         // Logout
-//        wait.until(ExpectedConditions.visibilityOfElementLocated(
-//                By.xpath("//a[@class='ico-logout']")));
+        LogoutpageOpencart lo =
+                new LogoutpageOpencart(getDriver());
 
-        LogoutpageOpencart lo = new LogoutpageOpencart(driver);
-
-        test.info("Clicking Logout");
+        test.get().info("Clicking Logout");
         lo.clickLogout();
 
-        test.pass("Logout Successful");
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        // Forgot Password	
-        lp.clickLoginOpenCart();
-        ForgotpassOpencart fP =new ForgotpassOpencart(driver);
+        test.get().pass("Logout Successful");
 
-        test.info("Clicking Forgot Password");
+        getDriver().manage().timeouts()
+                .implicitlyWait(Duration.ofSeconds(10));
+
+        // Forgot Password
+        lp.clickLoginOpenCart();
+
+        ForgotpassOpencart fP =
+                new ForgotpassOpencart(getDriver());
+
+        test.get().info("Clicking Forgot Password");
         fP.clickForgotPassword();
-        
-        test.info("Entering Email Id");
+
+        test.get().info("Entering Email ID");
         fP.enteremail("dhanaji1234@gmail.com");
-        
-        test.info("Clicking recover btn");
+
+        test.get().info("Clicking Recover Button");
         fP.Clickrecoverbtn();
-        
-        test.info("Email with instructions has been sent to you text");
+
+        test.get().info("Verifying Password Recovery Message");
         fP.Passwordrecovery();
-        
-        
-        test.pass("Forgot Password Clicked Successfully");
+
+        test.get().pass("Forgot Password Flow Completed Successfully");
     }
 }

@@ -5,8 +5,6 @@ import java.time.Duration;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.aventstack.extentreports.ExtentTest;
-
 import Pages.ECommerceAutomation;
 import Pages.LoginPageOpencart;
 import factory.BaseClass;
@@ -16,113 +14,110 @@ public class TC_ECommerceAutomation extends BaseClass {
     @Test(priority = 1)
     public void verifyLoginEcommerce() {
 
-        ExtentTest test = extent.createTest("ECommerceAutomation");
+        test.set(extent.createTest("ECommerceAutomation"));
 
         // Login
-        LoginPageOpencart lp = new LoginPageOpencart(driver);
+        LoginPageOpencart lp = new LoginPageOpencart(getDriver());
 
-        test.info("Clicking Login Button");
+        test.get().info("Clicking Login Button");
         lp.clickLoginOpenCart();
 
-        test.info("Entering Email");
+        test.get().info("Entering Email");
         lp.enterEmail("dhanaji1234@gmail.com");
 
-        test.info("Entering Password");
+        test.get().info("Entering Password");
         lp.enterPassword("Dhanaji@0303");
 
-        test.info("Clicking Login");
+        test.get().info("Clicking Login");
         lp.clicklogin1();
 
-        test.pass("Login Successful");
+        test.get().pass("Login Successful");
 
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+        getDriver().manage().timeouts()
+                .implicitlyWait(Duration.ofSeconds(10));
 
         // E-Commerce
 
-        ECommerceAutomation EC = new ECommerceAutomation(driver);
+        ECommerceAutomation EC = new ECommerceAutomation(getDriver());
 
-        test.info("Clicking Add To Cart Button");
+        test.get().info("Clicking Add To Cart Button");
         EC.clickaddcartbtn();
 
-        test.info("Clicking Shopping Cart");
+        test.get().info("Clicking Shopping Cart");
         EC.clickshoppingcart();
 
         String productName = EC.Verifyproduct();
-        test.info("Product Name: " + productName);
+
+        test.get().info("Product Name: " + productName);
 
         Assert.assertEquals(productName, "14.1-inch Laptop");
 
-        test.info("Clicking Terms of Service Checkbox");
+        test.get().info("Clicking Terms of Service Checkbox");
         EC.clickoncheckbox();
 
-        test.info("Clicking Checkout Button");
+        test.get().info("Clicking Checkout Button");
         EC.Clickoncheckoutbtn();
 
         String checkoutPage = EC.verifychecktpage();
-        test.info("Checkout Page: " + checkoutPage);
+
+        test.get().info("Checkout Page: " + checkoutPage);
 
         Assert.assertEquals(checkoutPage, "Checkout");
-        
-        test.info("Clicking on select btn");
+
+        test.get().info("Clicking on Select Billing Address");
         EC.selectNewBillingAddress();
-        
-        
-        test.info("Clicking on select country Button");
+
+        test.get().info("Selecting Country");
         EC.Selectcntry();
-        
-        test.info("Entering city name");
+
+        test.get().info("Entering City");
         EC.entercityname("Pune");
-        
-        test.info("Entering address");
+
+        test.get().info("Entering Address");
         EC.enterAddress("Pune near dmart");
-        
-        test.info("Entering address");
+
+        test.get().info("Entering Address Line 2");
         EC.enterAddress1("hinjewadi phase3");
-        
-        test.info("Entering postal code");
+
+        test.get().info("Entering Postal Code");
         EC.enterpostalcode("442356");
-        
-        test.info("Entering phone number");
+
+        test.get().info("Entering Phone Number");
         EC.enterphonenumber("7066254567");
-        
-        test.info("Entering fax number");
+
+        test.get().info("Entering Fax Number");
         EC.enterfaxnumber("234-7066254567");
-        
-        test.info("Clicking Billing Address Save button");
+
+        test.get().info("Clicking Billing Address Save Button");
         EC.clickBillingAddressSave();
 
-        test.info("Selecting Shipping Address");
+        test.get().info("Selecting Shipping Address");
         EC.selectShippingAddress();
 
-        test.info("Clicking Shipping Address Checkbox");
+        test.get().info("Clicking Shipping Address Checkbox");
         EC.clickShippingAddressCheckbox();
 
-        test.info("Clicking Shipping Save button");
+        test.get().info("Clicking Shipping Save Button");
         EC.clickShippingSave();
 
-        test.info("Selecting Cash On Delivery payment method");
+        test.get().info("Selecting Cash On Delivery");
         EC.selectCashOnDelivery();
 
-        test.info("Clicking Payment Method Save button");
+        test.get().info("Clicking Payment Method Save");
         EC.clickPaymentMethodSave();
 
-        test.info("Verifying Cash On Delivery message");
+        test.get().info("Verifying Cash On Delivery Message");
         Assert.assertTrue(EC.verifyCashOnDeliveryMessage());
 
-        test.info("Clicking Payment Info Save button");
+        test.get().info("Clicking Payment Info Save");
         EC.clickPaymentInfoSave();
 
-        //test.info("Verifying Checkout Confirm Order section");
-        
-        //Assert.assertTrue(EC.verifyCheckoutConfirmOrderSection());
-
-        test.info("Clicking Confirm Order button");
+        test.get().info("Clicking Confirm Order");
         EC.clickConfirmOrder();
 
-        test.info("Verifying Checkout Page");
+        test.get().info("Verifying Checkout Completion");
         Assert.assertTrue(EC.verifyCheckoutPage());
 
-       
-        test.pass("ECommerce Flow Completed Successfully");
+        test.get().pass("ECommerce Flow Completed Successfully");
     }
 }
