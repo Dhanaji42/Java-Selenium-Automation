@@ -23,11 +23,11 @@ public class TC_ECommerceAutomation extends BaseClass {
         test.get().info("Clicking Login Button");
         lp.clickLoginOpenCart();
 
-        test.get().info("Entering Email"+ email);
-        lp.enterEmail(email);
-
-        test.get().info("Entering Password"+ password);
-        lp.enterPassword(password);
+//        test.get().info("Entering Email"+ email);
+//        lp.enterEmail(email);
+//
+//        test.get().info("Entering Password"+ password);
+//        lp.enterPassword(password);
 
         test.get().info("Clicking Login");
         lp.clicklogin1();
