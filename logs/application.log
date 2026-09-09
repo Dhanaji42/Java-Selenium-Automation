@@ -1301,3 +1301,52 @@
 2026-09-09 18:12:04 INFO  Pages.ECommerceAutomation - Clicking Payment Info Save button
 2026-09-09 18:12:04 INFO  Pages.ECommerceAutomation - Clicking Confirm Order button
 2026-09-09 18:12:05 INFO  Pages.ECommerceAutomation - Verifying Checkout Page
+2026-09-09 18:21:51 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-09-09 18:21:51 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 18:21:52 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 18:21:53 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-09-09 18:21:53 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 18:21:53 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 18:21:53 INFO  Pages.LoginPageOpencart - Getting welcome message
+2026-09-09 18:21:53 INFO  Pages.LoginPageTest - LoginPageTest initialized.
+2026-09-09 18:21:54 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-09-09 18:21:54 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-09-09 18:21:55 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 18:21:56 INFO  Pages.ForgotpassOpencart - Forgot Password Page initialized.
+2026-09-09 18:21:56 INFO  Pages.ForgotpassOpencart - Clicking Forgot Password link
+2026-09-09 18:21:57 INFO  Pages.ForgotpassOpencart - Email with instructions has been sent to you.
+2026-09-09 18:22:09 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-09-09 18:22:09 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 18:22:10 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 18:22:11 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-09-09 18:22:11 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-09-09 18:22:20 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-09-09 18:22:20 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 18:22:21 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 18:22:21 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-09-09 18:22:21 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-09-09 18:23:55 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-09-09 18:23:55 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 18:23:55 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 18:23:56 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-09-09 18:23:56 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-09-09 19:20:33 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-09-09 19:20:33 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 19:20:33 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 19:20:34 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-09-09 19:20:34 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-09-09 19:21:01 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-09-09 19:21:01 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 19:21:01 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 19:21:02 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-09-09 19:21:02 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-09-09 19:21:18 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-09-09 19:21:18 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 19:21:18 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 19:21:19 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-09-09 19:21:19 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-09-09 19:21:25 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-09-09 19:21:25 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 19:21:26 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 19:21:27 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-09-09 19:21:27 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
