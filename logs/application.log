@@ -1350,3 +1350,13 @@
 2026-09-09 19:21:26 INFO  Pages.LoginPageOpencart - Clicking Login button
 2026-09-09 19:21:27 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
 2026-09-09 19:21:27 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-09-09 19:27:41 INFO  Pages.LoginPageOpencart - LoginPageTest initialized.
+2026-09-09 19:27:41 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 19:27:42 INFO  Pages.LoginPageOpencart - Clicking Login button
+2026-09-09 19:27:43 INFO  Pages.ECommerceAutomation - ECommerce Page Initialized
+2026-09-09 19:27:43 INFO  Pages.ECommerceAutomation - Clicking Add To Cart button
+2026-09-09 19:27:43 INFO  Pages.ECommerceAutomation - Clicking Shopping Cart
+2026-09-09 19:27:44 INFO  Pages.ECommerceAutomation - Verifying Product
+2026-09-09 19:27:44 INFO  Pages.ECommerceAutomation - Clicking Terms of Service Checkbox
+2026-09-09 19:27:44 INFO  Pages.ECommerceAutomation - Clicking Checkout Button
+2026-09-09 19:27:44 INFO  Pages.ECommerceAutomation - Verifying Checkout Page

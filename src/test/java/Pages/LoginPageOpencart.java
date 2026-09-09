@@ -15,11 +15,11 @@ public class LoginPageOpencart {
         this.driver = driver;
         logger.info("LoginPageTest initialized.");
     }
-	     By Loginbtn = By.xpath("(//a[@class='ico-login'])");
-	     By Emailtxt = By.xpath("//input[@id='Email']");
-	     By Passwordtxt =By.xpath("//input[@id='Password']");
-	     By LoginBtn1 =By.cssSelector(".button-1.login-button");
-	     By welcomeMessage = By.xpath("//h2[normalize-space()='Welcome to our store']");
+//	     By Loginbtn = By.xpath("(//a[@class='ico-login'])");
+//	     By Emailtxt = By.xpath("//input[@id='Email']");
+//	     By Passwordtxt =By.xpath("//input[@id='Password']");
+//	     By LoginBtn1 =By.cssSelector(".button-1.login-button");
+//	     By welcomeMessage = By.xpath("//h2[normalize-space()='Welcome to our store']");
 	     
 	     public void clickLoginOpenCart() {
 	         logger.info("Clicking Login button");
