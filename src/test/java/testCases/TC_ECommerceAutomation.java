@@ -4,15 +4,16 @@ import java.time.Duration;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
+import utilities.DataProviders;
 import Pages.ECommerceAutomation;
 import Pages.LoginPageOpencart;
 import factory.BaseClass;
 
 public class TC_ECommerceAutomation extends BaseClass {
 
-    @Test(priority = 1)
-    public void verifyLoginEcommerce() {
+	@Test(priority = 1, dataProvider = "LoginData", dataProviderClass = DataProviders.class)
+	public void verifyLoginEcommerce(String email, String password)
+     {
 
         test.set(extent.createTest("ECommerceAutomation"));
 
@@ -22,11 +23,11 @@ public class TC_ECommerceAutomation extends BaseClass {
         test.get().info("Clicking Login Button");
         lp.clickLoginOpenCart();
 
-        test.get().info("Entering Email");
-        lp.enterEmail("dhanaji1234@gmail.com");
+        test.get().info("Entering Email"+ email);
+        lp.enterEmail(email);
 
-        test.get().info("Entering Password");
-        lp.enterPassword("Dhanaji@0303");
+        test.get().info("Entering Password"+ password);
+        lp.enterPassword(password);
 
         test.get().info("Clicking Login");
         lp.clicklogin1();
