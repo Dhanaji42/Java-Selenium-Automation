@@ -9,20 +9,20 @@
         <listener class-name="utilities.RetryListener"/>
 
     </listeners>
-<!--  
-    <test name="ChromeTest">
-        <parameter name="browser" value="chrome"/>
+  
+    <test name="edgeTest">
+        <parameter name="browser" value="edge"/>
 
         <classes>
-            <class name="testCases.TC_LoginandUserManagement"/>
+            <class name="testCases.TC_LoginandUserManagementDemoWebShop"/>
         </classes>
     </test>
--->
+ 
     <test name="ChromeTest">
         <parameter name="browser" value="chrome"/>
 
         <classes>
-            <class name="testCases.TC_ECommerceAutomation"/>
+            <class name="testCases.TC_ECommerceAutomationDemoWebShop"/>
         </classes>
     </test>
 

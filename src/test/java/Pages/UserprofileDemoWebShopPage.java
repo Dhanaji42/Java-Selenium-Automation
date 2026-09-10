@@ -5,13 +5,13 @@ package Pages;
 	import org.apache.logging.log4j.LogManager;
 	import org.apache.logging.log4j.Logger;
 
-	public class UserprofileOpencart {
+	public class UserprofileDemoWebShopPage {
 
 	    WebDriver driver;
 
-	    private static final Logger logger =LogManager.getLogger(LoginPageTest.class);
+	    private static final Logger logger =LogManager.getLogger(LoginPageTestSample.class);
 
-	    public UserprofileOpencart(WebDriver driver) {
+	    public UserprofileDemoWebShopPage(WebDriver driver) {
 	        this.driver = driver;
 	        logger.info("LoginPageTest initialized.");
 	    }

@@ -5,13 +5,13 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class ForgotpassOpencart {
+public class ForgotPassDemoWebShopPage {
 
     WebDriver driver;
 
-    private static final Logger logger =LogManager.getLogger(ForgotpassOpencart.class);
+    private static final Logger logger =LogManager.getLogger(ForgotPassDemoWebShopPage.class);
 
-    public ForgotpassOpencart(WebDriver driver) {
+    public ForgotPassDemoWebShopPage(WebDriver driver) {
 	        this.driver = driver;
 	        logger.info("Forgot Password Page initialized.");
     }

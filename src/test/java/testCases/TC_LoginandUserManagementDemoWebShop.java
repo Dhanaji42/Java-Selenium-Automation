@@ -5,14 +5,14 @@ import java.time.Duration;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import Pages.ForgotpassOpencart;
-import Pages.LoginPageOpencart;
-import Pages.LogoutpageOpencart;
-import Pages.UserprofileOpencart;
+import Pages.ForgotPassDemoWebShopPage;
+import Pages.LoginDemoWebShopPage;
+import Pages.LogoutDemoWebShopPage;
+import Pages.UserprofileDemoWebShopPage;
 import factory.BaseClass;
 import utilities.RetryAnalyzer;
 
-public class TC_LoginandUserManagement extends BaseClass {
+public class TC_LoginandUserManagementDemoWebShop extends BaseClass {
 
     @Test(
         priority = 1,
@@ -22,7 +22,7 @@ public class TC_LoginandUserManagement extends BaseClass {
 
         test.set(extent.createTest("Verify Login Test"));
 
-        LoginPageOpencart lp = new LoginPageOpencart(getDriver());
+        LoginDemoWebShopPage lp = new LoginDemoWebShopPage(getDriver());
 
 
         // Login
@@ -49,8 +49,8 @@ public class TC_LoginandUserManagement extends BaseClass {
                 .implicitlyWait(Duration.ofSeconds(10));
 
         // User Profile
-        UserprofileOpencart UP =
-                new UserprofileOpencart(getDriver());
+        UserprofileDemoWebShopPage UP =
+                new UserprofileDemoWebShopPage(getDriver());
 
         test.get().info("Clicking My Account");
         UP.clickingmyaccount();
@@ -64,8 +64,8 @@ public class TC_LoginandUserManagement extends BaseClass {
                 .implicitlyWait(Duration.ofSeconds(10));
 
         // Logout
-        LogoutpageOpencart lo =
-                new LogoutpageOpencart(getDriver());
+        LogoutDemoWebShopPage lo =
+                new LogoutDemoWebShopPage(getDriver());
 
         test.get().info("Clicking Logout");
         lo.clickLogout();
@@ -78,8 +78,8 @@ public class TC_LoginandUserManagement extends BaseClass {
         // Forgot Password
         lp.clickLoginOpenCart();
 
-        ForgotpassOpencart fP =
-                new ForgotpassOpencart(getDriver());
+        ForgotPassDemoWebShopPage fP =
+                new ForgotPassDemoWebShopPage(getDriver());
 
         test.get().info("Clicking Forgot Password");
         fP.clickForgotPassword();

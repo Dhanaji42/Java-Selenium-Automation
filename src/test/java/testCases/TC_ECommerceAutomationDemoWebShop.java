@@ -5,11 +5,11 @@ import java.time.Duration;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.DataProviders;
-import Pages.ECommerceAutomation;
-import Pages.LoginPageOpencart;
+import Pages.ECommerceAutomationDemoWebShopPage;
+import Pages.LoginDemoWebShopPage;
 import factory.BaseClass;
 
-public class TC_ECommerceAutomation extends BaseClass {
+public class TC_ECommerceAutomationDemoWebShop extends BaseClass {
 
 	@Test(priority = 1, dataProvider = "LoginData", dataProviderClass = DataProviders.class)
 	public void verifyLoginEcommerce(String email, String password)
@@ -18,7 +18,7 @@ public class TC_ECommerceAutomation extends BaseClass {
         test.set(extent.createTest("ECommerceAutomation"));
 
         // Login
-        LoginPageOpencart lp = new LoginPageOpencart(getDriver());
+        LoginDemoWebShopPage lp = new LoginDemoWebShopPage(getDriver());
 
         test.get().info("Clicking Login Button");
         lp.clickLoginOpenCart();
@@ -39,7 +39,7 @@ public class TC_ECommerceAutomation extends BaseClass {
 
         // E-Commerce
 
-        ECommerceAutomation EC = new ECommerceAutomation(getDriver());
+        ECommerceAutomationDemoWebShopPage EC = new ECommerceAutomationDemoWebShopPage(getDriver());
 
         test.get().info("Clicking Add To Cart Button");
         EC.clickaddcartbtn();

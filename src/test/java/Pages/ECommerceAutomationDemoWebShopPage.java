@@ -6,14 +6,14 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class ECommerceAutomation {
+public class ECommerceAutomationDemoWebShopPage {
 
     WebDriver driver;
 
     private static final Logger logger =
-            LogManager.getLogger(ECommerceAutomation.class);
+            LogManager.getLogger(ECommerceAutomationDemoWebShopPage.class);
 
-    public ECommerceAutomation(WebDriver driver) {
+    public ECommerceAutomationDemoWebShopPage(WebDriver driver) {
         this.driver = driver;
         logger.info("ECommerce Page Initialized");
     }

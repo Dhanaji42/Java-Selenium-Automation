@@ -3,11 +3,11 @@ package Pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class LogoutpageOpencart {
+public class LogoutDemoWebShopPage {
 
     WebDriver driver;
 
-    public LogoutpageOpencart(WebDriver driver) {
+    public LogoutDemoWebShopPage(WebDriver driver) {
         this.driver = driver;
     }
     

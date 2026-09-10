@@ -5,13 +5,13 @@ import org.openqa.selenium.WebDriver;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class LoginPageTest {
+public class LoginPageTestSample {
 
     WebDriver driver;
 
-    private static final Logger logger =LogManager.getLogger(LoginPageTest.class);
+    private static final Logger logger =LogManager.getLogger(LoginPageTestSample.class);
 
-    public LoginPageTest(WebDriver driver) {
+    public LoginPageTestSample(WebDriver driver) {
         this.driver = driver;
         logger.info("LoginPageTest initialized.");
     }
